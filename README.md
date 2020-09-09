@@ -1,13 +1,18 @@
+<img align="right" src="https://i.ibb.co/KsWjkZN/bitmoji-priti.png" alt="bitmoji-priti" border="0"></a>
 <h1 align="center">Hello World!</h1>
 <p align="center"> I am Priti Khochare. I Love ❤️ programming. I am a 20 year old computer science 👩‍💻 student from India. </p>
 <h3> Language & Skills </h3>
 <ul>
-<li>Python</li>
+<li>C</li>
 <li>C++</li>
-<li>JavaScipt</li>
-<li>Web Development</li>
-<li>Machine Learning</li>
-<li>Deep learning</li>
-<li>Natural language processing</li>
-<li>App Development</li>
+<li>Python</li>
+<li>Java</li>
+<li>Html</li>
+<li>CSS</li>
+<li>Bootstrap</li>
+<li>Javascript</li>
+<!--<li>Jquery</li>-->
+<li>SQL</li>  
+<li>PHP</li>
+<li>Android App Development</li>
 </ul>
