@@ -1,5 +1,6 @@
 <img align="right" src="https://i.ibb.co/KsWjkZN/bitmoji-priti.png" alt="bitmoji-priti" border="0"></a>
-<h1 align="center">Hello World 🌍 I am Priti  👩‍💻 </h1>
+<h1 align="center">Hello World 🌍</h1>
+<h1 align="center">I am Priti  👩‍💻 </h1>
 <p align="center">I am a 20 year old computer science student from India. </p>
 <h3> Languages & Skills : </h3>
 <ul>
