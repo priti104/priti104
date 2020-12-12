@@ -1,4 +1,4 @@
-<img align="right" src="https://i.ibb.co/KsWjkZN/bitmoji-priti.png" alt="bitmoji-priti" border="0"></a>
+<img align="right" src="https://i.ibb.co/wMrnHRM/bitmoji-priti.png" alt="bitmoji-priti" border="0"></a>
 <h3>Hello World 🌍</h3>
 <h3>I am Priti  👩‍💻 </h3>
 <p>I am a 20 year old computer science student from India. </p>
